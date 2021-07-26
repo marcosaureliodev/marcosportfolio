@@ -7,7 +7,7 @@
 <h4 align="center">
  <img src="https://github.com/marcosaureliodev/marcosportfolio/blob/master/img/icon-logo.svg" width="75px"/>
  </br></br>
- <b>Este projeto está sendo desenvolvido para apresentar ao público trabalhos desenvovidos no decorrer de minha carreira!</b>
+ <b>Este projeto está sendo desenvolvido para apresentar ao público,trabalhos desenvovidos no decorrer de minha carreira DEV!</b>
 </h4>
 
 <img src="https://github.com/marcosaureliodev/marcosportfolio/blob/master/img/Frame%2036.png"/>
